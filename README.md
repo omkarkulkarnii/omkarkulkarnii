@@ -85,11 +85,3 @@ Answers all questions related to the stock market and mutual funds.
 
 ---
 
-### Contact Information
-- **Email**: o.s.kulkarni2004@gmail.com
-- **Phone**: 9156736719
-- **LinkedIn**: [linkedin.com/in/omkarkulkarnii27](https://www.linkedin.com/in/omkarkulkarnii27)
-- **GitHub**: [github.com/omkarkulkarnii](https://www.github.com/omkarkulkarnii)
-- **Location**: Pune, 411017
-
----
