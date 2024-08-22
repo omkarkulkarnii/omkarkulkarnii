@@ -1,15 +1,7 @@
 
-**Omkar Kulkarni**  
-Software Engineer  
-Email: o.s.kulkarni2004@gmail.com | Phone: 9156736719  
-LinkedIn: [linkedin.com/in/omkarkulkarnii27](https://www.linkedin.com/in/omkarkulkarnii27)  
-GitHub: [github.com/omkarkulkarnii](https://www.github.com/omkarkulkarnii)  
-Location: Pune, 411017
-
----
-
-### Professional Summary
-Highly motivated Software Engineer with hands-on experience in full-stack development, specializing in React.js and Node.js. Proficient in developing user-centric applications, integrating APIs, and managing databases with MongoDB. Demonstrates strong problem-solving skills and a commitment to continuous learning.
+<h1 align="center" >Omkar Kulkarni</h1> 
+<h4 align="center">Highly motivated Software Engineer with hands-on experience in full-stack development, specializing in React.js and Node.js. Proficient in developing user-centric applications, integrating APIs, and managing databases with MongoDB. Demonstrates strong problem-solving skills and a commitment to continuous learning.
+</h4>
 
 ---
 
@@ -17,28 +9,38 @@ Highly motivated Software Engineer with hands-on experience in full-stack develo
 
 **Celebal Technologies**  
 *Summer Intern under the React Js Department*  
-*May 2024 - Present*  
+*May 2024 - July 2024*  
 - Worked on various React projects, gaining practical experience in front-end development.
 - Collaborated with a team to develop interactive and responsive web applications.
 
 ---
 
-### Projects
 
-**QuickSearch**  
-*March 2024 - May 2024*  
-A dictionary website using a dictionary API for word definitions, synonyms, and examples.  
-- Implemented MongoDB to store users' search history.
-- **Frontend**: HTML, CSS, JavaScript (React.js)
-- **Backend**: Node.js
+### Projects
+---
+
+[**chat-a-bit**](https://github.com/omkarkulkarnii/chat-a-bit)
+ *July 2024 - Current*  
+AI based real time chat application with real-time messaging with instant updates and user authentication along with group chat functionality.
+- **Frontend**: React
+- **Backend**: NodeJs, Socket.io, ExpressJs
 - **Database**: MongoDB
 
-**ReactTODO**  
+  
+---
+[**QuickSearch**](https://dashsearch.z13.web.core.windows.net/) 
+*March 2024 - May 2024*    
+A dictionary website using a dictionary API for word definitions, synonyms, and examples.  
+- Implemented MongoDB to store users' search history.
+- **Frontend**: HTML, CSS, JavaScript 
+
+
+[**ReactTODO**](https://github.com/omkarkulkarnii/ToDoList)
 *February 2024 - February 2024*  
 A minimalist to-do list app made using React which performs CRUD operations to manage tasks and stores tasks in local storage.  
 - **Frontend**: HTML, CSS, JavaScript
 
-**Mutual Fund Chatbot**  
+[**Mutual Fund Chatbot**](https://github.com/omkarkulkarnii/MFchatbot)
 *August 2023 - September 2023*  
 Answers all questions related to the stock market and mutual funds.  
 - **Technologies**: Azure services, HTML, CSS, JavaScript
@@ -53,6 +55,9 @@ Answers all questions related to the stock market and mutual funds.
 2021 - 2024
 
 ---
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarkulkarnii&show_icons=true&locale=en&layout=compact" alt="omkar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkulkarnii&" alt="omkar" /></p>
 
 ### Skills
 - **Programming Languages**: Java, JavaScript, Python, C++
