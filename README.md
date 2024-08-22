@@ -1,6 +1,6 @@
 
 <h1 align="center" >Omkar Kulkarni</h1> 
-<h4 align="center">Highly motivated Software Engineer with hands-on experience in full-stack development, specializing in React.js and Node.js. Proficient in developing user-centric applications, integrating APIs, and managing databases with MongoDB. Demonstrates strong problem-solving skills and a commitment to continuous learning.
+<h4 align="center">Highly motivated Software Engineer with hands-on experience in full-stack development, specializing in React.js and Node.js. Proficient in developing user-centric applications, integrating APIs, and managing databases with MongoDB. Demonstrate strong problem-solving skills and a commitment to continuous learning.
 </h4>
 
 ---
