@@ -46,15 +46,6 @@ Answers all questions related to the stock market and mutual funds.
 - **Technologies**: Azure services, HTML, CSS, JavaScript
 
 ---
-
-### Education
-
-**Savitribai Phule Pune University**  
-*Bachelor of Engineering*  
-*GPA: 8.5*  
-2021 - 2024
-
----
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarkulkarnii&show_icons=true&locale=en&layout=compact" alt="omkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkulkarnii&" alt="omkar" /></p>
@@ -66,27 +57,3 @@ Answers all questions related to the stock market and mutual funds.
 - **Tools & Technologies**: Git, GitHub, Microsoft Azure
 - **Core Concepts**: Data Structures, Algorithms, OOP
 - **Soft Skills**: Time Management, Problem Solving
-
----
-
-### Certificates
-- **TCS Ion Full Stack Java Developer**  
-  *Certificate of Proficiency*  
-  2024 - 2026
-
-- **FutureSKills Prime**  
-  *Microsoft virtual internship program to develop basic cloud skills using Azure*  
-  *Affiliated with Microsoft and AICTE*  
-  June 2023 - September 2023
-
-- **AICTE's NPTEL Data Structures and Algorithms using Java**  
-  2023
-
-- **Google Data Analytics Certificate**  
-  2023
-
-- **Internshala Web Development Certificate**  
-  2023
-
----
-
