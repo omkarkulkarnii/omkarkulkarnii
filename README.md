@@ -28,11 +28,11 @@ AI based real time chat application with real-time messaging with instant update
 
   
 ---
-[**QuickSearch**](https://dashsearch.z13.web.core.windows.net/) 
+[**QuickSearch**](https://dictionaryreact.azurewebsites.net/) 
 *March 2024 - May 2024*    
 A dictionary website using a dictionary API for word definitions, synonyms, and examples.  
 - Implemented MongoDB to store users' search history.
-- **Frontend**: HTML, CSS, JavaScript 
+- **Frontend**: React 
 
 
 [**ReactTODO**](https://github.com/omkarkulkarnii/ToDoList)
