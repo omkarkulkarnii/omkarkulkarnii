@@ -5,17 +5,6 @@
 
 ---
 
-### Work Experience
-
-**Celebal Technologies**  
-*Summer Intern under the React Js Department*  
-*May 2024 - July 2024*  
-- Worked on various React projects, gaining practical experience in front-end development.
-- Collaborated with a team to develop interactive and responsive web applications.
-
----
-
-
 ### Projects
 ---
 
