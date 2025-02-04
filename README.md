@@ -8,15 +8,18 @@
 ### Projects
 ---
 
+[**wishLink-Store**](https://github.com/omkarkulkarnii/wishLink-Store)
+ *current*    
+A full-stack platform to manage products from Flipkart, Amazon, and Myntra using Node.js, Express, and MySQL. Implemented role-based access control (Buyer, Seller, Admin) with JWT authentication. Developed APIs for product and order management, ensuring secure and scalable architecture. Utilized Git for version control and collaboration.
+
+---
 [**chat-a-bit**](https://github.com/omkarkulkarnii/chat-a-bit)
- *July 2024 - Current*  
+ *July 2024 - Oct 2024*  
 AI based real time chat application with real-time messaging with instant updates and user authentication along with group chat functionality.
 - **Frontend**: React
 - **Backend**: NodeJs, Socket.io, ExpressJs
 - **Database**: MongoDB
 
-  
----
 [**QuickSearch**](https://dictionaryreact.azurewebsites.net/) 
 *March 2024 - May 2024*    
 A dictionary website using a dictionary API for word definitions, synonyms, and examples.  
