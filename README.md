@@ -43,7 +43,7 @@ Answers all questions related to the stock market and mutual funds.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkulkarnii&" alt="omkar" /></p>
 
 ### Skills
-- **Programming Languages**: Java, JavaScript, Python, C++
+- **Programming Languages**: Java, JavaScript
 - **Web Development**: HTML, CSS, React.js, Node.js
 - **Databases**: MongoDB, SQL
 - **Tools & Technologies**: Git, GitHub, Microsoft Azure
